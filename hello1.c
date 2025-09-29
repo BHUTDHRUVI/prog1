@@ -2,6 +2,6 @@
 int main()
 {
 printf("hello world");
-  printf("ddu");
+printf("ddu");
 return 0;
 }
