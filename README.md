@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm BHUT DHRUVI
 
 ### 🎓 First-Year IT Engineering Student  
 Aspiring IT Engineer learning the fundamentals of programming, networking, and information systems. I enjoy exploring new technologies and building beginner-friendly projects to improve my skills.
@@ -29,7 +29,7 @@ Aspiring IT Engineer learning the fundamentals of programming, networking, and i
 ---
 
 ## 📫 Connect With Me
-- Email: your.email@example.com  
+- Email: pateldhruvi232008@gmail.com  
 - LinkedIn: your-linkedin-url  
 - Portfolio (optional): your-website-url  
 
