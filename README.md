@@ -1,38 +1,16 @@
-# 👋 Hi, I'm BHUT DHRUVI
+# 👨‍💻 IT Engineering Student
 
-### 🎓 First-Year IT Engineering Student  
-Aspiring IT Engineer learning the fundamentals of programming, networking, and information systems. I enjoy exploring new technologies and building beginner-friendly projects to improve my skills.
+Hi! I'm jaimin bhensdadiya, an IT Engineering student passionate about coding and tech.
 
----
+## 📌 Skills
+- C, C++, Python  
+- HTML, CSS, JavaScript  
+- MySQL, Git & GitHub  
 
-## 🔧 Technologies & Tools I'm Learning
-- **Languages:** Python, C, HTML/CSS, SQL  
-- **Interests:** Web Development, Cybersecurity, Cloud Computing  
-- **Tools:** Git, VS Code, Linux (beginner)
+## 📂 Projects
+- **Project 1:** Short description  
+- **Project 2:** Short description  
 
---
-
-## 🚀 Current Goals
-- Build foundational coding skills  
-- Work on small IT and software projects  
-- Learn more about networks, databases, and system administration  
-- Contribute to open-source projects in the future  
-
----
-
-## 📚 What I'm Working On
-- Learning Python basics  
-- Creating simple web pages  
-- Understanding Git & GitHub  
-- Exploring cybersecurity fundamentals  
-
----
-
-## 📫 Connect With Me
-- Email: pateldhruvi232008@gmail.com  
-- LinkedIn: your-linkedin-url  
-- Portfolio (optional): your-website-url  
-
----
-
-### 🌱 *Still learning. Still improving. One line of code at a time.*
+## 📞 Contact
+Email: your-email  
+GitHub: your-username
