@@ -10,7 +10,7 @@ Aspiring IT Engineer learning the fundamentals of programming, networking, and i
 - **Interests:** Web Development, Cybersecurity, Cloud Computing  
 - **Tools:** Git, VS Code, Linux (beginner)
 
----
+--
 
 ## 🚀 Current Goals
 - Build foundational coding skills  
