@@ -1,16 +1,17 @@
-# 👨‍💻 IT Engineering Student
+# 💻 IT Engineering Student
 
-Hi! I'm jaimin bhensdadiya, an IT Engineering student passionate about coding and tech.
+Welcome to my GitHub!  
+I am BHUT DHRUVI, an IT Engineering student exploring software development and technology.
 
-## 📌 Skills
-- C, C++, Python  
-- HTML, CSS, JavaScript  
-- MySQL, Git & GitHub  
+## 🚀 What I Know
+C | C++ | Python | Java  
+HTML | CSS | JS  
+MySQL | Git
 
-## 📂 Projects
-- **Project 1:** Short description  
-- **Project 2:** Short description  
+## 📁 My Work
+- Mini Project 1 – brief detail  
+- Mini Project 2 – brief detail  
 
-## 📞 Contact
-Email: your-email  
-GitHub: your-username
+## 📬 Reach Me
+Email: pateldhruvi232008@gmail.com 
+GitHub: BHUTDHRUVI
